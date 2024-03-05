@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_bg_white.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/bg_white.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.schat.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.schat.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/layout_activity_chat.xml.flat",
+        "source": "com.example.schat.app-main-35:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_arrow_back.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/arrow_back.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.schat.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_profile_bg.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/profile_bg.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_p1_bg.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/p1_bg.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.schat.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_msg_count.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/msg_count.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/layout_user_item.xml.flat",
+        "source": "com.example.schat.app-main-35:/layout/user_item.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.schat.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.schat.app-pngs-29:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_edit_text_bg.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/edit_text_bg.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_baseline_add_24.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/baseline_add_24.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_user.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/user.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_bg_send.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/bg_send.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.schat.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.schat.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/layout_fragment_home.xml.flat",
+        "source": "com.example.schat.app-main-35:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/layout_fragment_settings.xml.flat",
+        "source": "com.example.schat.app-main-35:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/layout_msg_sender.xml.flat",
+        "source": "com.example.schat.app-main-35:/layout/msg_sender.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.schat.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_person.jpg.flat",
+        "source": "com.example.schat.app-main-35:/drawable/person.jpg"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_bg_recieve.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/bg_recieve.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.schat.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_done.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/done.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/xml_backup_rules.xml.flat",
+        "source": "com.example.schat.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.schat.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.schat.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_call.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/call.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/layout_activity_login.xml.flat",
+        "source": "com.example.schat.app-main-35:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.schat.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.schat.app-main-35:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_p4_bg.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/p4_bg.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_p2_bg.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/p2_bg.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/layout_fragment_users.xml.flat",
+        "source": "com.example.schat.app-main-35:/layout/fragment_users.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_chat.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/chat.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_send.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/send.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_settings.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/settings.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_bg_green.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/bg_green.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_setting_btm_bg.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/setting_btm_bg.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/layout_fragment_call.xml.flat",
+        "source": "com.example.schat.app-main-35:/layout/fragment_call.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/layout_msg_receiver.xml.flat",
+        "source": "com.example.schat.app-main-35:/layout/msg_receiver.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.schat.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_done_all.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/done_all.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_wbg.jpg.flat",
+        "source": "com.example.schat.app-main-35:/drawable/wbg.jpg"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.schat.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_home.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/home.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/layout_activity_register.xml.flat",
+        "source": "com.example.schat.app-main-35:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.schat.app-merged_res-33:/drawable_baseline_send.xml.flat",
+        "source": "com.example.schat.app-main-35:/drawable/baseline_send.xml"
+    }
+]
