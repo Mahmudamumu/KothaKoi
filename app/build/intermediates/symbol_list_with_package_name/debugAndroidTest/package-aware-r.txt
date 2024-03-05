@@ -1,0 +1,3 @@
+com.example.schat.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
